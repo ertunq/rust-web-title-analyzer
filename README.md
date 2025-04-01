@@ -1,4 +1,4 @@
-Web Title Analysis Tool
+# Web Title Analysis Tool
 This Rust CLI application extracts and analyzes heading tags (h1, h2, h3, etc.) from a specified website.
 Features
 
@@ -16,7 +16,7 @@ cd web-title-analyzer
 cargo build --release
 ```
 
-Dependencies
+# Dependencies
 
 reqwest: For HTTP requests
 tokio: Asynchronous runtime
